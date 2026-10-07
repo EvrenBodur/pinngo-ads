@@ -1,1 +1,1 @@
-# pinngo-ads.github.io
+# pinngo-ads
